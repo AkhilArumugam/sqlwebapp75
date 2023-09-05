@@ -1,0 +1,8 @@
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.csproj.AssemblyReference.cache
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.AssemblyInfoInputs.cache
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.AssemblyInfo.cs
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.csproj.CoreCompileInputs.cache
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.MvcApplicationPartsAssemblyInfo.cache
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.RazorAssemblyInfo.cache
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Debug\net7.0-windows\WebAppwithSQLDB.RazorAssemblyInfo.cs

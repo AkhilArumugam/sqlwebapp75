@@ -1,0 +1,13 @@
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\WebAppwithSQLDB.exe
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\appsettings.Development.json
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\appsettings.json
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\WebAppwithSQLDB.dll
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\WebAppwithSQLDB.deps.json
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\WebAppwithSQLDB.runtimeconfig.json
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\WebAppwithSQLDB.pdb
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\System.Data.SqlClient.dll
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AZ204\WebAppwithSQLDB\WebAppwithSQLDB\obj\Release\net7.0-windows\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
